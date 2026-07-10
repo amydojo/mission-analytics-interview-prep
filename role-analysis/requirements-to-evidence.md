@@ -1,8 +1,26 @@
 # Requirements-to-Evidence Map
 
-This is the source of truth for every answer. The goal is not to make Josh appear perfect. The goal is to make the strongest evidence unmistakable and every gap survivable.
+This is the **secret sauce** of the repo. Every interview answer should be traceable to this file.
 
-## Priority matrix
+## Executive view
+
+| Requirement | Josh's evidence | Risk | Interview language |
+|---|---|---|---|
+| Root-cause analysis | Found 100% RF traffic overestimation | Needs deeper technical detail | Explain detection, isolation, validation |
+| Defense systems | Raytheon RF simulation | Avoid classified details | Focus on translating physics into software |
+| Python and SQL | Viasat analytical model | Strong | Lead story |
+| Cloud systems | Limited evidence | Main gap | Honest adjacency answer |
+
+The executive view is intentionally simple. It should be readable in ten seconds and should guide the whole phone screen:
+
+- **Lead with Python, SQL, RF, and root-cause analysis.**
+- **Use Raytheon to prove defense credibility and discretion.**
+- **Treat cloud as the main risk and answer it precisely.**
+- **Never let a gap become the final sentence of an answer.**
+
+The goal is not to make Josh appear perfect. The goal is to make the strongest evidence unmistakable and every gap survivable.
+
+## Full priority matrix
 
 | Requirement | Josh's evidence | Risk | Interview language |
 |---|---|---|---|
