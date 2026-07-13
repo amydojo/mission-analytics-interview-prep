@@ -2,6 +2,12 @@
 
 Private interview operating system for Joshua Gross's Anduril Industries **Mission Analytics Engineer, Air Defense** phone screen and the technical rounds that may follow.
 
+## Live interface
+
+**[Open the Mission Analytics Interview OS](https://amydojo.github.io/mission-analytics-interview-prep/)**
+
+The browser interface turns the canonical prep files into four focused modes: Command, Drill, Score, and Day of. It runs entirely in the browser; score history and checklist progress stay in local storage.
+
 ## Positioning
 
 > **Systems and software engineer with defense, RF, Python automation, SQL-driven analytics, production debugging, hardware verification, and graduate statistics experience.**
@@ -34,6 +40,10 @@ The four preventable failure modes are:
 
 ```text
 mission-analytics-interview-prep/
+├── index.html
+├── site/
+│   ├── styles/
+│   └── scripts/
 ├── README.md
 ├── role-analysis/
 │   ├── job-description.md
