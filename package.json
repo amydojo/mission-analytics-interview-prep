@@ -1,0 +1,8 @@
+{
+  "name": "mission-analytics-interview-prep",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html 404.html dist/ && cat site/styles/*.css > dist/styles.css && cat site/scripts/*.js > dist/app.js"
+  }
+}
